@@ -21,6 +21,7 @@ A simple, fast inventory management web app built for small and medium pharmacy 
 - lucide-react (icons)
 - localStorage (data persistence in the browser)
 
+<<<<<<< HEAD
 ## Running locally
 
 \`\`\`bash
@@ -37,3 +38,6 @@ npm run build
 ## Note
 
 Data is currently stored in the browser's localStorage — meaning whatever data is added will only be visible on that same browser/device. A backend/database could be added later to sync data across multiple devices.
+=======
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project..
+>>>>>>> 4b23514 (added css)
